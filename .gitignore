@@ -1,0 +1,5 @@
+# Project exclude paths
+/A_Component_Module/target/
+/B_JavaWeb_Module/target/
+/C_SSM_Module/target/
+/D_SpringBoot_Module/target/

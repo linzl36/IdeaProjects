@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://java.sun.com/dtd/web-app_2_3.dtd" location="$PROJECT_DIR$/../dtd/web-app_2_3.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" location="$PROJECT_DIR$/../dtd/mybatis-3-config.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$PROJECT_DIR$/../dtd/mybatis-3-mapper.dtd" />
+    <resource url="http://www.springframework.org/schema/aop" location="$PROJECT_DIR$/../dtd/spring-aop.xsd" />
+    <resource url="http://www.springframework.org/schema/beans" location="$PROJECT_DIR$/../dtd/spring-beans.xsd" />
+    <resource url="http://www.springframework.org/schema/context" location="$PROJECT_DIR$/../dtd/spring-context.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc" location="$PROJECT_DIR$/../dtd/spring-mvc.xsd" />
+    <resource url="http://www.springframework.org/schema/tx" location="$PROJECT_DIR$/../dtd/spring-tx.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
